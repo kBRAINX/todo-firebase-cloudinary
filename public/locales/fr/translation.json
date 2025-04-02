@@ -1,0 +1,133 @@
+{
+    "app": {
+      "name": "Ma Liste de Tâches",
+      "version": "1.0.0",
+      "slogan": "Organisez votre quotidien avec style"
+    },
+    "auth": {
+      "login": "Connexion",
+      "logout": "Déconnexion",
+      "register": "S'inscrire",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "displayName": "Nom d'utilisateur",
+      "forgotPassword": "Mot de passe oublié ?",
+      "resetPassword": "Réinitialiser le mot de passe",
+      "noAccount": "Pas encore de compte ?",
+      "hasAccount": "Déjà un compte ?",
+      "resetSuccess": "Email de réinitialisation envoyé !",
+      "resetInstructions": "Veuillez vérifier votre email pour les instructions de réinitialisation.",
+      "invalidCredentials": "Email ou mot de passe incorrect.",
+      "passwordMismatch": "Les mots de passe ne correspondent pas.",
+      "emailRequired": "L'email est obligatoire",
+      "passwordRequired": "Le mot de passe est obligatoire",
+      "passwordLength": "Le mot de passe doit contenir au moins 6 caractères",
+      "nameRequired": "Le nom d'utilisateur est obligatoire",
+      "processing": "Traitement en cours...",
+      "continueWithGoogle": "Continuer avec Google",
+      "googleLoginError": "Erreur lors de la connexion avec Google"
+    },
+    "todo": {
+      "add": "Ajouter une tâche",
+      "edit": "Modifier la tâche",
+      "delete": "Supprimer",
+      "title": "Titre",
+      "description": "Description",
+      "dueDate": "Date d'échéance",
+      "priority": "Priorité",
+      "category": "Catégorie",
+      "image": "Image",
+      "addImage": "Ajouter une image",
+      "changeImage": "Changer l'image",
+      "removeImage": "Supprimer l'image",
+      "addSuccess": "Tâche ajoutée avec succès !",
+      "editSuccess": "Tâche modifiée avec succès !",
+      "deleteSuccess": "Tâche supprimée avec succès !",
+      "deleteConfirm": "Êtes-vous sûr de vouloir supprimer cette tâche ?",
+      "placeholderTitle": "Que devez-vous faire ?",
+      "placeholderDescription": "Ajouter plus de détails...",
+      "placeholderCategory": "Choisir ou créer une catégorie",
+      "noDueDate": "Pas de date d'échéance",
+      "noTasks": "Aucune tâche trouvée",
+      "noTasksAdd": "Ajoutez votre première tâche",
+      "titleRequired": "Le titre est obligatoire",
+      "imageUploading": "Téléchargement de l'image...",
+      "priorities": {
+        "low": "Faible",
+        "medium": "Moyenne",
+        "high": "Élevée"
+      }
+    },
+    "filter": {
+      "filters": "Filtres",
+      "all": "Toutes",
+      "active": "Actives",
+      "completed": "Terminées",
+      "search": "Rechercher des tâches...",
+      "priority": "Priorité",
+      "category": "Catégorie",
+      "clearFilters": "Effacer les filtres",
+      "sortBy": "Trier par",
+      "sortOptions": {
+        "dateDesc": "Date (récent d'abord)",
+        "dateAsc": "Date (ancien d'abord)",
+        "dueDate": "Date d'échéance",
+        "priority": "Priorité"
+      }
+    },
+    "stats": {
+      "total": "Total",
+      "completed": "Terminées",
+      "pending": "En attente",
+      "highPriority": "Priorité élevée",
+      "dueSoon": "À échéance proche"
+    },
+    "settings": {
+      "title": "Paramètres",
+      "theme": "Thème",
+      "language": "Langue",
+      "showCompleted": "Afficher les tâches terminées",
+      "defaultPriority": "Priorité par défaut",
+      "saveSuccess": "Paramètres enregistrés !",
+      "themes": {
+        "light": "Clair",
+        "dark": "Sombre",
+        "system": "Système"
+      },
+      "languages": {
+        "fr": "Français",
+        "en": "Anglais"
+      }
+    },
+    "profile": {
+      "title": "Profil",
+      "edit": "Modifier le profil",
+      "save": "Enregistrer",
+      "cancel": "Annuler",
+      "avatar": "Avatar",
+      "changeAvatar": "Changer l'avatar",
+      "memberSince": "Membre depuis",
+      "lastLogin": "Dernière connexion",
+      "saveSuccess": "Profil mis à jour !"
+    },
+    "common": {
+      "save": "Enregistrer",
+      "cancel": "Annuler",
+      "loading": "Chargement...",
+      "error": "Une erreur est survenue",
+      "success": "Succès !",
+      "confirm": "Confirmer",
+      "add": "Ajouter",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "yes": "Oui",
+      "no": "Non",
+      "back": "Retour",
+      "next": "Suivant",
+      "uploadImage": "Télécharger une image",
+      "selectImage": "Sélectionner une image",
+      "dragDrop": "Glisser-déposer ici",
+      "or": "ou"
+    }
+  }
