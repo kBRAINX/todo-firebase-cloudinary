@@ -9,7 +9,18 @@ Une application de gestion de tâches moderne et multilingue construite avec Rea
 - 📝 Création, modification et suppression de tâches
 - 🔐 Authentification utilisateur (Email/Mot de passe et Google)
 - 🌓 Mode sombre/clair personnalisable
-- 🌍 Support multilingue (Français/Anglais)
+- 🌍 Support multilingue (Français/Anglais)# Firebase Configuration
+  VITE_FIREBASE_API_KEY=AIzaSyAkfoGq0k1JEt74adwDjtAZVwUgvuvjb70
+  VITE_FIREBASE_AUTH_DOMAIN=test-38778.firebaseapp.com
+  VITE_FIREBASE_PROJECT_ID=test-38778
+  VITE_FIREBASE_STORAGE_BUCKET=test-38778.firebasestorage.app
+  VITE_FIREBASE_MESSAGING_SENDER_ID=504090542602
+  VITE_FIREBASE_APP_ID=1:504090542602:web:34bd39452c54677507d5f3
+  VITE_FIREBASE_MEASUREMENT_ID=G-033L6XYRXZ
+
+# Cloudinary Configuration (Alternative to Firebase Storage)
+VITE_CLOUDINARY_CLOUD_NAME=db4aguqvt
+VITE_CLOUDINARY_UPLOAD_PRESET=photo
 - 📊 Statistiques de tâches détaillées
 - 🖼️ Upload d'images pour les tâches
 - 📱 Interface responsive
