@@ -29,8 +29,8 @@ Une application de gestion de tâches moderne et multilingue construite avec Rea
 ### 1. Clonage du repository
 
 ```bash
-git clone https://github.com/votre-username/todo-list-app.git
-cd todo-list-app
+git https://github.com/kBRAINX/todo-firebase-cloudinary.git
+cd todo-firebase-cloudinary
 ```
 
 ### 2. Installation des dépendances
